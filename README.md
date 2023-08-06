@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Silva</h1>
-<h3 align="center">I'm a Machine Learning Enthusiast</h3>
+<h3 align="center">I'm a Deep Learning Engineer | Computer Vision</h3>
 
 - 🔭 I’m currently working on [Centre of Engineering and Product Development (CEiiA)](https://www.ceiia.com/)
 
