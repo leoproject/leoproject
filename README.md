@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/leoproject/leoproject/raw/main/assets/header-github.gif" alt="Hi, my name is Leonardo">
+
+  <img src="https://raw.githubusercontent.com/leoproject/leoproject/master/assets/header-github.gif" alt="Hi, my name is Leonardo">
 </p>
 
 <!--
