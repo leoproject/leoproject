@@ -1,11 +1,25 @@
+<p align="center">
+  <img src="https://github.com/leoproject/leoproject/raw/main/assets/header-github.gif" alt="Hi, my name is Leonardo">
+</p>
+
+<!--
+How to make the bio gif ?
+💜 I would like to say thanks to [matyo91](https://github.com/matyo91)
+
+1. I made my with https://codesandbox.io/s/github-profile-2ijk7;
+
+2. So I recorded my screen to gif on Ubuntu with normal option print and record screen and save result to video webm extension.
+
+3. This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert WEBM to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
+
 <h1 align="center">Hi 👋, I'm Leonardo Silva</h1>
 <h3 align="center">I'm a Deep Learning Engineer | Computer Vision</h3>
 
 - 🔭 I’m currently working on [Centre of Engineering and Product Development (CEiiA)](https://www.ceiia.com/)
 
-- 🌱 I’m currently learning **PyTorch and Airflow**
-
-- 👯 I’m looking to collaborate on **open source projects and Data Science projects**
+- 🧐 I’m looking to collaborate on **open source projects and Data Science projects**
 
 - 👨‍💻 All of my projects are available at [https://leoproject.github.io/](https://leoproject.github.io/)
 
